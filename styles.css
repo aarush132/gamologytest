@@ -1,0 +1,94 @@
+body {
+    background-color: #35A6F3;
+}
+
+.logo {
+    position: static;
+    transform: rotate(0);
+    height: 300px;
+    width: 300px;
+    margin-left: 42%;
+}
+
+.white {
+    color: #fff;
+}
+
+.white-section {
+    background-color: #fff;
+}
+
+#links {
+    position: relative;
+}
+  
+.link-title {
+    font-size: 1.5rem;
+}
+  
+.link-box {
+    padding: 4.5%;
+}
+  
+.icon {
+    color: #fff;
+    margin-bottom: 1rem;
+}
+
+.roblox {
+    padding-left: 400px;
+}
+
+.discord {
+    padding-left: 550px;
+}
+
+.centre {
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#sneak-peeks {
+    background-color: #35A6F3;
+  }
+  
+  .sneak-peeks-text {
+    font-size: 3rem;
+    line-height: 1.5;
+    margin-top: 40px;
+    margin-left: 525px;
+    color: #fff;
+  }
+  
+  .sneak-peeks-image {
+    margin: 20px;
+    margin-left: 400px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+  }
+  
+  
+  #press {
+    background-color: #35A6F3;
+    padding-bottom: 3%;
+  }
+  
+  .press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+  }
+  
+  .phone {
+    margin-left: 600px;
+  }
+
+  .phone-text {
+      margin-left: 700px;
+  }
+
+  .lobby {
+    margin-left: 250px;
+  }
